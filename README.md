@@ -68,6 +68,7 @@ wearable-data-preprocessing/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 ## Installation
 
 Clone the repository and install the required Python packages:
