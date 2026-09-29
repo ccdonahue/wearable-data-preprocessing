@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Local development notebook
+development.ipynb
+
+# Data protection
+# Never commit raw research data
+data/raw/*
+data/processed/*
+
+# Allow only explicitly approved synthetic example data
+!data/raw/synthetic_oura_sleep.csv
+
+# OS-generated files
+.DS_Store
+Thumbs.db

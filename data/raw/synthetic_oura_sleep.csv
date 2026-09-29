@@ -1,0 +1,4 @@
+"type;bedtime_start;bedtime_end;awake_time;deep_sleep_duration;light_sleep_duration;rem_sleep_duration;total_sleep_duration;time_in_bed;sleep_phase_30_sec;sleep_phase_5_min;hrv"
+"long_sleep;2026-01-01T23:00:00.000+00:00;2026-01-02T07:00:00.000+00:00;1800;5400;12600;5400;23400;28800;12341234;1234;{"items": [45, 50, 55], "timestamp": "example"}"
+"long_sleep;2026-01-02T23:30:00.000+00:00;2026-01-03T07:15:00.000+00:00;2400;4800;12000;5100;21900;27900;123412;123;{"items": [60, null, 70], "timestamp": "example"}"
+"rest;2026-01-03T14:00:00.000+00:00;2026-01-03T14:30:00.000+00:00;300;0;1200;0;1200;1800;1212;12;{"items": [52, 54], "timestamp": "example"}"
